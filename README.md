@@ -1,3 +1,11 @@
+# Goggle- A Google 2.0
+
+A Google Search 2.0 with the ability to search for up-to-date results, images, news, and videos, modern UI, dark mode, this is a completely responsive Google Clone.
+
+### [Live Site](https://gogglebysamridhi.netlify.app)
+
+<img width="1440" alt="6" src="https://user-images.githubusercontent.com/91188761/149633839-8da1bfab-be0c-4a1e-aaeb-95635a684cba.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
